@@ -1,0 +1,21 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "§cby YockerFX",
+      "name" : "Yockers X-Ray",
+      "uuid" : "4b9322ec-a39e-4965-8f0b-b0ab3e66a315",
+      "min_engine_version": [ 1,9,0 ],
+      "version" : [ 1, 8, 0 ]
+   },
+   "min_engine_version": [ 1,9,0 ],
+   "modules" : [
+      {
+         "description" : "Never Gonna Give you up never gonna let you down, never gonna run
+around and desert you, never gonna make you cri, never gonna say gooddbye, never gonna run around and desert you, 
+you get the point get rick rolled",
+         "type" : "resources",
+         "uuid" : "f099db72-29d4-410a-b589-07255633673a",
+         "version" : [ 1, 8, 0 ]
+      }
+   ]
+}
