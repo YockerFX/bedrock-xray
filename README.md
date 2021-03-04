@@ -1,6 +1,7 @@
 # Yockers X-Ray for Minecraft Bedrock
 
 My version of the Xray for mcpe works with the block shapes in the blockshapes part. There you will find all possible blockshapes of bedrock version 1.14! In my pack I used the block shapes 'end-rod' and '' so I can see where blocks are otherwise I would have used the unsafe block shape.
+![ing](https://github.com/YockerFX/bedrock-xray/blob/main/Minecraft%2004.03.2021%2011_11_03.png)
 
 ## Usage
 
