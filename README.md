@@ -28,7 +28,7 @@ Dont forget to give credits!
 
 ## Blockshapes
 
-```
+```javascript
 List of  blockshapes:
 
 anvil
