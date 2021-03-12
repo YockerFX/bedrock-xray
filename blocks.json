@@ -1,27 +1,31 @@
-{  "stone" : { 
+{
+  "stone" : { 
     "textures" : "stone", 
     "sound": "stone",
-    "blockshape": "end_rod"
+    "blockshape": "invisable"
   },
   "sandstone" : { 
-    "isotropic" : {"up" : true, "down" : true},    "textures" : { "up" : "sandstone_top", "down" : "sandstone_bottom", "side" : "sandstone_side"}, 
+    "isotropic" : {"up" : true, "down" : true},
+    "textures" : { "up" : "sandstone_top", "down" : "sandstone_bottom", "side" : "sandstone_side"}, 
     "brightness_gamma" : 0.70,
     "sound": "stone",
-    "blockshape": "end_rod"
+    "blockshape": "invisible"
   },
   "dirt" : { 
     "isotropic" : true,
     "textures" : "dirt", 
     "sound": "gravel",
-    "blockshape": "turtle_egg"
+    "blockshape": "invisible"
   },
-  "gravel" : {     "textures" : "gravel", 
+  "gravel" : { 
+    "textures" : "gravel", 
     "sound": "gravel",
     "blockshape": "invisible"
   },
   "netherrack" : { 
     "isotropic" : true,
-    "textures" : "netherrack",    "sound": "stone",
+    "textures" : "netherrack",
+    "sound": "stone",
     "blockshape": "invisible"
   },
   "soul_sand" : { 
@@ -61,6 +65,6 @@
   "gravel" : { 
     "textures" : "gravel",
     "sound": "gravel",
-    "blockshape": "end_rod"
+    "blockshape": "invisible"
   }
 }
